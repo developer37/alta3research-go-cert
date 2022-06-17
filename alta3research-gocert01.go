@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/url"
 )
-
+// Template of JSON for Current NEOS
 type CurrentNeos struct {
 	Links struct {
 		Next string `json:"next"`
@@ -101,7 +101,7 @@ type CurrentNeos struct {
 }
 
 func GetNeoDetails(neoid string, url string) {
-
+    // Template for a NEO detail JSON
 	type NeodataTemplate struct {
 		Links struct {
 			Self string `json:"self"`
@@ -266,6 +266,6 @@ func main() {
 	//Get 1st Neo details using its url for REST GET call
 	GetNeoDetails(neoId, neomap[neoId])
 
-	fmt.Println(" Main Completed...")
+	fmt.Println("Main Completed...")
 
 }
