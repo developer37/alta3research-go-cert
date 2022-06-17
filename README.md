@@ -8,11 +8,11 @@ The project demonstrates how GO can simplify the processing of complex JSON in t
 These instructions will get you a copy of the project up and running on your local machine
 for development and testing purposes. 
 
-Make          directory: mdir simple
-Change into   directory: cd simple
-Git cmd to install code: git clone https://github.com/developer37/alta3research-go-cert.git
-Get into project dir   : cd alta3research-go-cert
-Run program            : go run alta3research-gocert01.go
+-Make          directory: mdir simple
+-Change into   directory: cd simple
+-Git cmd to install code: git clone https://github.com/developer37/alta3research-go-cert.git
+-Get into project dir   : cd alta3research-go-cert
+-Run program            : go run alta3research-gocert01.go
 
 
 
