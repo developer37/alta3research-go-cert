@@ -8,18 +8,18 @@ The project demonstrates how GO can simplify the processing of complex JSON in t
 These instructions will get you a copy of the project up and running on your local machine
 for development and testing purposes. 
 
-Make          directory: mdir simple
-Change into   directory: cd simple
-Git cmd to install code: git clone https://github.com/developer37/alta3research-go-cert.git
-Get into project dir   : cd alta3research-go-cert
-Run program            : go run alta3research-gocert01.go
+1. Make          directory: mdir simple
+2. Change into   directory: cd simple
+3. Git cmd to install code: git clone https://github.com/developer37/alta3research-go-cert.git
+4. Get into project dir   : cd alta3research-go-cert
+5. Run program            : go run alta3research-gocert01.go
 
 
 
 ### Prerequisites
 
-Make sure Go is installed on your machine: go version
-If it is not install go to https://go.dev/dl/ and follow instructions there to install on specific operating system
+1. Make sure Go is installed on your machine: go version
+2. If GO is not installed,  go to https://go.dev/dl/ and follow instructions there to install on your specific operating system.
 
 ## Built With
 
@@ -30,10 +30,10 @@ If it is not install go to https://go.dev/dl/ and follow instructions there to i
 * **Developer37** - *Initial work* - (https://example.com/)
 
 ## References
-https://alta3.com/overview-golang-training
-https://api.nasa.gov
-https://go.dev/doc/
-https://transform.tools/json-to-go
-https://blog.logrocket.com/using-json-go-guide/
-https://www.sohamkamani.com/golang/json/
+1. https://alta3.com/overview-golang-training
+2. https://api.nasa.gov
+3. https://go.dev/doc/
+4. https://transform.tools/json-to-go
+5. https://blog.logrocket.com/using-json-go-guide/
+6. https://www.sohamkamani.com/golang/json/
 
