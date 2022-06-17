@@ -19,7 +19,7 @@ for development and testing purposes.
 ### Prerequisites
 
 Make sure Go is installed on your machine: go version
-If it is not install go to https://go.dev/dl/ and follow instructions there to install on specific operating system
+If it is not install go to https://go.dev/dl/ and follow instructions there to install on your specific operating system.
 
 ## Built With
 
@@ -30,10 +30,10 @@ If it is not install go to https://go.dev/dl/ and follow instructions there to i
 * **Developer37** - *Initial work* - (https://example.com/)
 
 ## References
-https://alta3.com/overview-golang-training
-https://api.nasa.gov
-https://go.dev/doc/
-https://transform.tools/json-to-go
-https://blog.logrocket.com/using-json-go-guide/
-https://www.sohamkamani.com/golang/json/
+1. https://alta3.com/overview-golang-training
+2. https://api.nasa.gov
+3. https://go.dev/doc/
+4. https://transform.tools/json-to-go
+5. https://blog.logrocket.com/using-json-go-guide/
+6. https://www.sohamkamani.com/golang/json/
 
