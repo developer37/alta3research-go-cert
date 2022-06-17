@@ -18,8 +18,8 @@ for development and testing purposes.
 
 ### Prerequisites
 
-Make sure Go is installed on your machine: go version
-If it is not install go to https://go.dev/dl/ and follow instructions there to install on your specific operating system.
+1. Make sure Go is installed on your machine: go version
+2. If GO is not installed,  go to https://go.dev/dl/ and follow instructions there to install on your specific operating system.
 
 ## Built With
 
